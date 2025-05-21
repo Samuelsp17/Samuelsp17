@@ -1,8 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"/>
-</p>
-<h1 align="center">Olá, eu sou Samuel!</h1>
-<p align="center"><b>Hacking ético | Linux lover | Terminal ninja ⚡</b></p>
+<h1 align="center">👨‍💻 Samuel // aka root@localhost</h1>
+<p align="center"><i>Hack the planet. Exploit the system. Secure the future.</i></p>
 
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, código limpo e resolver problemas reais. 
