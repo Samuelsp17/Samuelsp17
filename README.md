@@ -3,7 +3,14 @@
 </p>
 
 
+---
 
+> 💻 **Desenvolvedor apaixonado por tecnologia, código limpo e resolver problemas reais.**  
+> 🔧 _Sempre aprendendo algo novo e contribuindo com a comunidade!_  
+>  
+> ──> Sempre buscando a próxima linha perfeita de código   
+
+---
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, código limpo e resolver problemas reais. 
   Sempre aprendendo algo novo e contribuindo com a comunidade!
@@ -11,11 +18,11 @@
 
 ---
 
-### 🚀 Sobre mim
+### Sobre mim
 
-- Sou desenvolvedor com foco em **[Pentesting e Full Stacking]**
-- Atualmente estou trabalhando com **[Pyton, JavaSript, HTML, CSS, ]**
-- Interesso-me por **[Hacking e desenvolvimento Full Stack]**
+- Sou desenvolvedor com foco em **Pentesting e Full Stacking**
+- Atualmente estou trabalhando com **Pyton, JavaSript, HTML, CSS, dentre outras linguagens**
+- Interesso-me por **Hacking e desenvolvimento Full Stack**
 - Buscando colaborar em projetos open source e expandir minhas habilidades
 
 ---
