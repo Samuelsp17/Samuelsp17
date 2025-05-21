@@ -30,14 +30,14 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?logo=css3&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Kali Linux](https://img.shields.io/badge/-Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/-Metasploit-222222?style=flat-square&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/-Burp_Suite-FF6F00?style=flat-square&logo=burpsuite&logoColor=white)
-![Bug Bounty](https://img.shields.io/badge/Bug%20Bounty-%2300A676.svg?style=for-the-badge&logo=bugcrowd&logoColor=white)
+![Bug Bounty](https://img.shields.io/badge/bug%20bounty-%2300A676.svg?logo=bugcrowd&logoColor=white)
 
 ---
 
