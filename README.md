@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/EaP5Q8U6LZ3T04CkRW/giphy.gif" width="600" alt="matrix rain"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00FF00&center=true&vCenter=true&width=500&lines=Olá%2C+meu+nome+é+Samuel_;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Password%3A+********;Authenticating...;connect+root+success;Olá%2C+bem-vindo%2C+me+chamo+Samuel_" alt="typing animation" />
 </p>
 
 <p align="center">
