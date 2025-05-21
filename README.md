@@ -62,4 +62,4 @@
 
 ---
 
-*“Código é poesia escrita para máquinas e lida por humanos.”*
+*“Conhecimento não é crime, mas use-o com sabedoria.” -Anonymous*
