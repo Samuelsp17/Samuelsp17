@@ -1,5 +1,10 @@
-<h1 align="center">👨‍💻 Samuel // aka root@localhost</h1>
-<p align="center"><i>Hack the planet. Exploit the system. Secure the future.</i></p>
+<p align="center">
+  <img src="https://media.giphy.com/media/EaP5Q8U6LZ3T04CkRW/giphy.gif" width="600" alt="matrix rain"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1200&color=00FF00&center=true&vCenter=true&width=500&lines=Olá%2C+meu+nome+é+Samuel_;" alt="Typing SVG" />
+</p>
 
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, código limpo e resolver problemas reais. 
