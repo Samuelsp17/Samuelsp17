@@ -1,6 +1,6 @@
-<p align="center" style="background-color:#000000;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Password%3A+********;Authenticating...;connect+root+success;Olá%2C+bem-vindo%2C+me+chamo+Samuel_" alt="typing animation" />
-</p>
+<div align="center" style="background-color:#000000; padding: 30px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=Password%3A+********;Authenticating...;connect+root+success;Olá%2C+bem-vindo%2C+me+chamo+Samuel_" alt="typing animation" />
+</div>
 
 <p align="center">
   Desenvolvedor apaixonado por tecnologia, código limpo e resolver problemas reais. 
