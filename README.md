@@ -16,9 +16,8 @@
 
 ### Sobre mim
 
-- Sou desenvolvedor com foco em **Pentesting e Full Stacking**
+- Sou desenvolvedor com foco em **Pentesting e Desenvolvimento Full Stacking**
 - Atualmente estou trabalhando com **Pyton, JavaSript, HTML, CSS, dentre outras linguagens**
-- Interesso-me por **Hacking e desenvolvimento Full Stack**
 - Buscando colaborar em projetos open source e expandir minhas habilidades
 
 ---
