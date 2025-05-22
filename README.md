@@ -1,7 +1,6 @@
-<p align="center" style="background-color:#000000;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Cascadia+Code&size=22&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Password%3A+********;Authenticating...;connect+root+success;Olá%2C+bem-vindo%2C+me+chamo+Samuel_" alt="typing animation" />
+<p align="center">
+  <img src="https://github.com/Samuelsp17/Samuelsp17/blob/main/gitf-ezgif.com-video-to-gif-converter.gif?raw=true" alt="GIF hacker Samuel" width="700" />
 </p>
-
 
 ---
 
