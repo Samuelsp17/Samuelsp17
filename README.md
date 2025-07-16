@@ -88,7 +88,7 @@
 
 ## Conhecimentos em Vulnerabilidades
 XSS, CSRF, SQLi, SSRF, LFI, Auth Bypass, IDOR, RCE
-validação de input, escaping de saída, tokens de sessão, CORS bem configurado, hardening de headers HTTP (CSP, HSTS)
+
 
 ### GitHub Stats
 
