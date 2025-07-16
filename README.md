@@ -23,7 +23,7 @@
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript" alt="JavaScript" />
@@ -43,9 +43,54 @@
 </p>
 
 ---
+### Linguagens
+- JavaScript 
+- Python
+- PHP
+- TypeScript
+- HTML5 / CSS3
+- SQL (PostgreSQL, MySQL)
+
+## Frameworks & Bibliotecas
+
+### Frontend
+- React.js
+- Next.js
+- Vue.js
+
+### Backend
+- Node.js (Express.js)
+- Django
+- Flask
 
 
-### 📈 GitHub Stats
+## Ferramentas de Desenvolvimento
+- Git & GitHub/GitLab
+- Postman 
+- VS Code
+- Jupyter Notebook
+
+
+## Banco de Dados
+
+### Relacionais
+- PostgreSQL
+- MySQL
+
+### Não Relacionais
+- MongoDB
+
+
+## Hospedagem & Infraestrutura
+- Cloudflare (WAF, DNS)
+- AWS (básico)
+- Linux (admin básico)
+
+## Conhecimentos em Vulnerabilidades
+XSS, CSRF, SQLi, SSRF, LFI, Auth Bypass, IDOR, RCE
+validação de input, escaping de saída, tokens de sessão, CORS bem configurado, hardening de headers HTTP (CSP, HSTS)
+
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Samuelsp17&show_icons=true&theme=radical" alt="github stats"/>
